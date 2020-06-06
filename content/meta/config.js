@@ -12,8 +12,8 @@ module.exports = {
   authorTwitterAccount: "greglobinski",
 
   /* info */
-  headerTitle: "greg lobinski",
-  headerSubTitle: "presents another one GatsbyJS starter",
+  headerTitle: "Papaya.com",
+  headerSubTitle: "Lets read something awesome today",
 
   /* manifest.json */
   manifestName: "HeroBlog - a GatsbyJS starter",
